@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "670772373152",
+    "project_id": "imdbdemo-3f6f9",
+    "storage_bucket": "imdbdemo-3f6f9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:670772373152:android:6b5ea1a118a4ae2e5bcbc5",
+        "android_client_info": {
+          "package_name": "com.example.infosysdemoapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "670772373152-8riqujqettaoq3ml4744r7oq672vsorb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkZYnZstF8aQfLQ4OGkgHiJfdJYCV5scY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "670772373152-8riqujqettaoq3ml4744r7oq672vsorb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
